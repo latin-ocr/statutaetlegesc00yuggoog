@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./statutaetlegesc00yuggoog_0343.png"; bbox 0 0 3388 5356; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 247 617 1366 876">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 247 617 1366 876">
+     <span class='ocr_line' id='line_1_1' title="bbox 247 617 1366 876; baseline 0.001 -45"><span class='ocrx_word' id='word_1_1' title='bbox 247 865 251 876; x_wconf 8' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 504 657 1074 836; x_wconf 77' lang='lat' dir='ltr'><strong>STATUTA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1360 617 1366 630; x_wconf 81' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 651 1227 1038 1456">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 651 1227 1038 1456">
+     <span class='ocr_line' id='line_1_2' title="bbox 651 1227 1038 1456; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 651 1281 921 1456; x_wconf 75' lang='lat' dir='ltr'>LEGES</span> <span class='ocrx_word' id='word_1_5' title='bbox 1029 1227 1038 1244; x_wconf 86' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 250 1777 1325 1912">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 250 1777 1325 1912">
+     <span class='ocr_line' id='line_1_3' title="bbox 250 1777 1325 1912; baseline -0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 250 1777 802 1912; x_wconf 82' lang='lat' dir='ltr'><strong>CIVITATIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 848 1778 1325 1912; x_wconf 84' lang='lat' dir='ltr'><strong>SPALATI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 481 3141 1088 3222">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 481 3141 1088 3222">
+     <span class='ocr_line' id='line_1_4' title="bbox 481 3141 1088 3222; baseline -0.005 -2"><span class='ocrx_word' id='word_1_8' title='bbox 481 3143 624 3220; x_wconf 88' lang='lat' dir='ltr'><strong>PROF.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 653 3141 735 3219; x_wconf 73' lang='lat' dir='ltr'><strong>Dm</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 764 3145 802 3222; x_wconf 84' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 830 3145 868 3222; x_wconf 86' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 896 3141 1088 3218; x_wconf 80' lang='lat' dir='ltr'><strong>HANEL.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1698 5356">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1698 5356">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1698 5356; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1698 5356; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
